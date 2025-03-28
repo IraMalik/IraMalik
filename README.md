@@ -2,11 +2,11 @@
 
 ### 🚀 About Me
 - 🎓 B. Tech IT at NMIMS, Mumbai
-- 🌱 Exploring Web Development, DSA and AI!
+- 🌱 Exploring **Web Development, DSA and AI/ML!**
 - 💡 Passionate about **technology, writing, and photography**
 - 💬 Ask me about my projects!
-- 📫 Connect with me on [LinkedIn] (www.linkedin.com/in/ira-malik-833852232)
-- 😄 Pronouns: She/Her
+- 📫 Connect with me on [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/ira-malik-833852232)
+- 🙋‍♀️ Pronouns: She/Her
 
 ---
 ### 🚀 Tech Stack  
